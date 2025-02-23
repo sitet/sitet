@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sitet
-- 👀 I’m interested in software engeneering
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on Git up copilot
-- 📫 How to reach me ...
+- 👀 I’m a software developer
+- 🌱 I’m currently learning technical writing
+- 💞️ I’m looking to collaborate to any software environment
+- 📫reach me via ronositetQgmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
